@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this framework, theory, or code in your research, please cite it as below."
+authors:
+  - family-names: "Paslavskyy"
+    given-names: "Ihor"
+title: "Stochastic Self-Closure (SSC): A Geometric Framework for Reality"
+version: 29.0
+date-released: 2026-01-18
+url: "https://github.com/ipaslavs/SSC_Framework"
+abstract: "A theoretical framework proposing an objective collapse model driven by Vacuum Tension and Stochastic Self-Closure. It posits that reality is an 8-dimensional phase space manifold evolving via a stochastic race to minimize entropy (Law of Least Resistance)."
+keywords:
+  - "quantum-foundations"
+  - "objective-collapse"
+  - "philosophy-of-science"
+  - "artificial-intelligence"
+  - "thermodynamics"
+  - "SSC"
+license: "CC-BY-NC-ND-4.0"
